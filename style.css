@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&display=swap');
+body{background-color: aqua;
+font-family: 'Castoro', serif; 
+}
+h1{
+    color: cornflowerblue
+    font- size 5em;
+}
+img{
+    width: 30%
+}
